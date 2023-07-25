@@ -1,0 +1,15 @@
+- Salver matérias estudantes.
+- Recuperar estudantes.
+- Atualizar diagrama.
+- Fazer professores.
+
+- Não foi implementado o delete.
+- Opções para volta no menu.
+- Verificar "stdafx.h"
+
+- RELAÇÃO
+Associação: alguma relação.
+
+- PERTIÊNCIA
+Apregação por associação: um objeto aponta para um de outra classe.
+Agregação por composição: um objeto instancia um de outra classe.
